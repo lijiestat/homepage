@@ -14,7 +14,7 @@ title: Presentation
 * **Speed Session Speaker**, _Joint Statistical Meetings (Online), Seattle, WA, USA_ (08/2021）
 
 
-* **Contributed Session Speaker**, _Bernoulli-IMS 10th World Congress in Probability and Statistics, Online_（07/2021）[Video](https://www.youtube.com/watch?v=ToS2zr8tRyk) &[Slides](https://www.dropbox.com/s/jryusatvtj2qp4y/ABS-0163_Li.pdf?dl=0)
+* **Contributed Session Speaker**, _Bernoulli-IMS 10th World Congress in Probability and Statistics, Online_（07/2021）[Video](https://www.youtube.com/watch?v=ToS2zr8tRyk) & [Slides](https://www.dropbox.com/s/jryusatvtj2qp4y/ABS-0163_Li.pdf?dl=0)
 
 
 * **ISI Jan Tinbergen Awards Session Speaker**, _The 63rd ISI World Statistics Congress, Online_（07/2021）[Slides](https://www.dropbox.com/s/zgrnyei2zb60b77/ISIwsc2021.pdf?dl=0)
@@ -55,13 +55,13 @@ Xiamen, China_ (12/2020) [Slides](https://www.dropbox.com/s/jg9qtzv76j1pixo/xiam
 
 * **Invited Session Speaker**,  _The 4th National Statistics Doctoral Students Forum, Guangzhou, China_ (11/2020) [Slides](https://www.dropbox.com/s/fdz6ca4oby7wr5f/fttscb_forum_guangzhou.pdf?dl=0)
 
-* **Contributed Session Speaker**, _Joint Statistical Meetings (Online), Philadelphia, PA, USA_ (08/2020)
+* **Contributed Session Speaker**, _Joint Statistical Meetings (Online), Philadelphia, PA, USA_ (08/2020) [Slides](https://www.dropbox.com/s/zeskvljey4lfttj/ftsscb_JSM.pdf?dl=0)
 
 
 * **Invited Session Speaker**, _The 2019 Symposium on Modern Statistics at Xiamen University,
 Xiamen, China_ (12/2019)
 
-* **Contributed Session Speaker**, _Joint Statistical Meetings, Denver, CO, USA_ (07/2019)
+* **Contributed Session Speaker**, _Joint Statistical Meetings, Denver, CO, USA_ (07/2019) [Slides](https://www.dropbox.com/s/zeskvljey4lfttj/ftsscb_JSM.pdf?dl=0)
 
 
 * **Invited Session Speaker**, _IMS China Conference, Dalian, China_ (07/2019)
