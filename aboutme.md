@@ -11,8 +11,8 @@ What else do you need?
 
 ### Education
 
--_PhD (2017-now), Department of Statistics, Tsinghua University_
---Advisor: Lijian Yang
+* _PhD (2017-now), Department of Statistics, Tsinghua University_
+ * Advisor: Lijian Yang
 
 -_Bachelor (2013-2017), Department of Statistics, Beijing Normal University_
 
