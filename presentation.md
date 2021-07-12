@@ -33,7 +33,7 @@ title: Presentation
 
 
 * **Lightning  Session Speaker**, _2021 ASA Symposium on Data Science and Statistics,
-Online_ (06/2021) [Slides]("/assets/SDSS2021.pdf")
+Online_ (06/2021) [Slides](https://www.dropbox.com/s/7otkvu0t9lay3d4/SDSS2021.pdf?dl=0)
 
 
 * **Invited Talk**, _School of Statistics and Mathematics, Zhejiang Gongshang University_（04/2021）
