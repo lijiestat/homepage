@@ -17,6 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Publications: "Publications"
   Honors: "Honors"
+  Presentation: "presentation"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
