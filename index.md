@@ -3,9 +3,6 @@ layout: page
 title: Jie Li
 subtitle: Welcome to my homepage!
 ---
-
-
-
 < img align="right" src="/assets/img/Photo JieLi_new.JPG" alt="" width="300">
 
 
