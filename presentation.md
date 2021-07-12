@@ -11,7 +11,7 @@ title: Presentation
 
 
 
-* **Speed Session Speaker**, _Joint Statistical Meetings (Online), Seattle, WA, USA_，（08/2021）
+* **Speed Session Speaker**, _Joint Statistical Meetings (Online), Seattle, WA, USA_ (08/2021）
 
 
 * **Contributed Session Speaker**, _Bernoulli-IMS 10th World Congress in Probability and Statistics, Online_（07/2021）
