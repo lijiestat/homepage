@@ -7,13 +7,13 @@ subtitle: Why you'd want to go on a date with me
 My name is Jie Li. I am a fourth-year Phd Candidate in Tsinghua University and am fortunate to be advised by Professor Lijian Yang.
 
 
-What else do you need?
+
 
 ### Education
 
-* _PhD (2017-now), Department of Statistics, Tsinghua University_
+* _PhD (2017-now), Center for Statistical Science and Department of Industrial Engineering, Tsinghua University_
   *  Advisor: [Lijian Yang](http://lijianyang.com)
 
-* _Bachelor (2013-2017), Department of Statistics, Beijing Normal University_
+* _Bachelor (2013-2017), School of Mathematical Sciences, Beijing Normal University_
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer  your questions.
+
