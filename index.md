@@ -10,9 +10,8 @@ subtitle: Welcome to my homepage!
 
 
 
-<div align="right">
-<img src=“assets/img/Photo JieLi_new.JPG”  />
-</div>
+![](assets/img/Photo JieLi_new.JPG url 50%)
+
   
     
       
