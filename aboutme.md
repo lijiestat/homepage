@@ -20,9 +20,9 @@ My name is Jie Li. I am a fourth-year Phd Candidate in Tsinghua University and a
 
 
 
-* **Methodology:** time series, functional data analysis, econometrics, causal inference.  
+* **Methodology:** inference for time series and functional data; econometrics; causal inference and marchine learinng.  
 
-* **Applications:** statistics in finance, environment, biomedical science, meteorology.
+* **Applications:** statistics in finance, environment, biomedical science and meteorology.
 
 
 ### CV
