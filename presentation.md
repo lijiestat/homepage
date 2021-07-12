@@ -17,27 +17,25 @@ title: Presentation
 
 
 * Statistical inference for mean function of longitudinal imaging data over complicated domains, July 2021
-  **Contributed Session Speaker**, Bernoulli-IMS 10th World Congress in Probability and Statistics, Online}
+  **Contributed Session Speaker**, _Bernoulli-IMS 10th World Congress in Probability and Statistics, Online_
 
-\entrymid[\textbullet]
-{Prediction interval of air pollutants concentration by nonparametric regression analysis}{July 2021}
-{\textbf{ISI Jan Tinbergen Awards Session Speaker}, The 63rd ISI World Statistics Congress,
-Online}
-
-
-
-\entrymid[\textbullet]
-{Statistical inference for mean function of longitudinal imaging data over complicated domains}{June 2021}
-{\textbf{Invited Session Speaker}, The 4th International Conference on Econometrics and Statistics (Online), 
-Hongkong}
+* Prediction interval of air pollutants concentration by nonparametric regression analysis, July 2021
+ **ISI Jan Tinbergen Awards Session Speaker**, _The 63rd ISI World Statistics Congress,
+Online_
 
 
 
 
-\entrymid[\textbullet]
-{Statistical inference for mean function of longitudinal imaging data over complicated domains}{June 2021}
-{\textbf{Invited Talk}, Young Statisticians Forum,
-Online}
+* Statistical inference for mean function of longitudinal imaging data over complicated domains, June 2021
+**Invited Session Speaker**, _The 4th International Conference on Econometrics and Statistics (Online), 
+Hongkong_
+
+
+
+
+
+* Statistical inference for mean function of longitudinal imaging data over complicated domains}{June 2021}
+**Invited Talk**, _Young Statisticians Forum, Online_
 
 
 
