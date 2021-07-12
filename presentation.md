@@ -34,13 +34,13 @@ Hongkong_
 
 
 
-* Statistical inference for mean function of longitudinal imaging data over complicated domains}{June 2021}
+* Statistical inference for mean function of longitudinal imaging data over complicated domains, June 2021
  * **Invited Talk**, _Young Statisticians Forum, Online_
 
 
 
 \entrymid[\textbullet]
-{Prediction interval of air pollutants concentration by nonparametric regression analysis}{June 2021}
+{Prediction interval of air pollutants concentration by nonparametric regression analysis, June 2021
 {\textbf{Lightning  Session Speaker}, 2021 ASA Symposium on Data Science and Statistics,
 Online}
 
