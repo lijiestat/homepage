@@ -2,7 +2,11 @@
 layout: page
 title: Jie Li
 subtitle: Welcome to my homepage!
+use-site-title: true
+order: 1
 ---
+
+
 < img align="right" src="/assets/img/Photo JieLi_new.JPG" alt="" width="300">
 
 
