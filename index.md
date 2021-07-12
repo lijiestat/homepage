@@ -11,7 +11,7 @@ subtitle: Welcome to my homepage!
 
 
 <div align="right">
-<img src=/assets/img/Photo JieLi_new.JPG width=30% />
+<img src=“/assets/img/Photo JieLi_new.JPG” width=30% />
 </div>
   
     
