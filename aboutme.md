@@ -24,3 +24,7 @@ My name is Jie Li. I am a fourth-year Phd Candidate in Tsinghua University and a
 
 * **Applications:** statistics in finance, environment, biomedical science, meteorology.
 
+
+### CV
+
+Here is my [CV](https://www.dropbox.com/s/e2bs55fl48985uk/CV%20Jie_new.pdf?dl=0).
