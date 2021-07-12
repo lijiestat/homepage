@@ -22,7 +22,7 @@ title: Presentation
 
 
 
-* **Invited Session Speaker**, _The 4th International Conference on Econometrics and Statistics (Online), Hongkong_（06/2021）
+* **Invited Session Speaker**, _The 4th International Conference on Econometrics and Statistics (Online), HongKong_（06/2021）
 
 * **Poster**, _The 5th Peking-Tsinghua Joint Statistics Colloquium, Beijing, China_ (06/2021)
 
@@ -34,6 +34,9 @@ title: Presentation
 
 * **Lightning  Session Speaker**, _2021 ASA Symposium on Data Science and Statistics,
 Online_ (06/2021)
+
+
+* **Invited Talk**, _School of Statistics and Mathematics, Zhejiang Gongshang University_（04/2021）
 
 
 * **Invited Session Speaker**, _The 8th China Statistics Annual Conference,
