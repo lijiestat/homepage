@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ##Honors and Awards
+title: Honors
 ---
 
 
@@ -10,7 +10,7 @@ title: ##Honors and Awards
 
 
 
-*  ISI Jan Tinbergen Award, 2021  
+* ISI Jan Tinbergen Award, 2021  
 
 * Chinese Association for Applied Statistics National Statistics Doctoral Students Forum Second Class Award, 2020
 
@@ -18,7 +18,7 @@ title: ##Honors and Awards
 
 * IMS Hannan Graduate Student Travel Award,  2020
 
-* Peking-Tsinghua Joint Statistics Colloquium Excellent Poster Award, 2019
+* [Peking-Tsinghua Joint Statistics Colloquium Excellent Poster Award, 2019](http://www.stat.tsinghua.edu.cn/2019/06/06/【学术活动】第四届北大-清华统计论坛成功举办/)
 
 * Beijing Outstanding Graduate Award, 2017
 
