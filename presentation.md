@@ -77,7 +77,7 @@ Taichung, Taiwan_ (06/2019) [Slides](https://www.dropbox.com/s/pufrfzajjo71mlf/E
 * **Poster**, _The 4th Peking-Tsinghua Joint Statistics Colloquium, Beijing, China_ (06/2019) [Poster](https://www.dropbox.com/s/y610r3xopulfmqq/posterlijie.pdf?dl=0)
 
 
-* **Invited Session Speaker**, _The 12th China-R Conference, Beijing, China_ (05/2019)[Slides](https://www.dropbox.com/s/y6bmypvky52fbqh/%E6%9D%8E%E6%9D%B0%20R%E8%AF%AD%E8%A8%80version2.pdf?dl=0)
+* **Invited Session Speaker**, _The 12th China-R Conference, Beijing, China_ (05/2019) [Slides](https://www.dropbox.com/s/y6bmypvky52fbqh/%E6%9D%8E%E6%9D%B0%20R%E8%AF%AD%E8%A8%80version2.pdf?dl=0)
 
 
 
