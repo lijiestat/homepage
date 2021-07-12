@@ -55,7 +55,7 @@ Xiamen, China_ (12/2020)
 * **Contributed Session Speaker**, _Joint Statistical Meetings (Online), Philadelphia, PA, USA_ (08/2020)
 
 
-* **Invited Session Speaker**, _ The 2019 Symposium on Modern Statistics at Xiamen University,
+* **Invited Session Speaker**, _The 2019 Symposium on Modern Statistics at Xiamen University,
 Xiamen, China_ (12/2019)
 
 * **Contributed Session Speaker**, _Joint Statistical Meetings, Denver, CO, USA_ (07/2019)
