@@ -16,3 +16,11 @@ My name is Jie Li. I am a fourth-year Phd Candidate in Tsinghua University and a
 * _Bachelor (2013-2017), School of Mathematical Sciences, Beijing Normal University_
 
 
+### Research Interests
+
+
+
+* **Methodology:** time series, functional data analysis, econometrics, causal inference.  
+
+* **Applications:** finance, environment, biomedical science, meteorology.
+
