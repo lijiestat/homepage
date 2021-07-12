@@ -10,7 +10,7 @@ subtitle: Welcome to my homepage!
 
 
 
-cover-img("assets/img/Photo JieLi_new.JPG")
+cover-img: "assets/img/Photo JieLi_new.JPG"
 
   
     
