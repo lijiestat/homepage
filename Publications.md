@@ -18,9 +18,12 @@ distribution function. _**Computational Statistics.**_ _Minor Revision_
 * **Li, J.**, Zhang, F. and Hu, Q. (2021+)   Multi-step-ahead prediction interval for locally stationary 
 time series with application to air pollutants concentration data. _**Stat**_. _Minor Revision_
 
+
 ### Under Review
 
+
 * Hu, Q. and **Li, J.** (2021+). Statistical inference for mean function of longitudinal imaging data over complicated domains. _(Corresponding Author)_ 
+
 
 ### Working papers
 
@@ -30,4 +33,4 @@ time series with application to air pollutants concentration data. _**Stat**_. _
 * Feng, Y., **Li, J.**,  and Song, X. (2021+). Goodness-of-fit tests for semi-functional partial linear model   based on randomly projected empirical process. _(Co-first Author)_
  
 
-* Hu, Q. and **Li, J.** (2021+). Simultaneous confidence corridors of the covariance function of multivariable functional data. _(Corresponding Author)_ 
+* Hu, Q. and **Li, J.** (2021+). Simultaneous inference for  covariance function of next-generation functional data. _(Corresponding Author)_ 
