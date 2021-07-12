@@ -9,24 +9,15 @@ My name is Jie Li. I am a fourth-year Phd Candidate in Tsinghua University and a
 
 
 
-### Education
+### Welcome to my homepage!
 
-* _PhD (2017-now), Center for Statistical Science, Tsinghua University_
-  *  Advisor: [Prof. Lijian Yang](http://lijianyang.com)
-
-* _Bachelor (2013-2017), School of Mathematical Sciences, Beijing Normal University_
+**I am Jie Li, a fourth-year Phd Candidate at [Center for Statistical Science](http://www.stat.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn). I am fortunate to be advised by Prof. [Lijian Yang]().**
   
     
       
       
 
-### Research Interests
 
-
-
-* **Methodology:** inference for time series and functional data; econometrics; causal inference and marchine learinng.  
-
-* **Applications:** statistics in finance, environment, biomedical science and meteorology.
 
 
 
