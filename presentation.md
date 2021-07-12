@@ -14,7 +14,7 @@ title: Presentation
 * **Speed Session Speaker**, _Joint Statistical Meetings (Online), Seattle, WA, USA_ (08/2021）
 
 
-* **Contributed Session Speaker**, _Bernoulli-IMS 10th World Congress in Probability and Statistics, Online_（07/2021）
+* **Contributed Session Speaker**, _Bernoulli-IMS 10th World Congress in Probability and Statistics, Online_（07/2021）[Video](https://www.youtube.com/watch?v=ToS2zr8tRyk)
 
 
 * **ISI Jan Tinbergen Awards Session Speaker**, _The 63rd ISI World Statistics Congress, Online_（07/2021）
