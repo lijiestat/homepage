@@ -5,7 +5,7 @@ subtitle: Welcome to my homepage!
 ---
 
 
-**_I am Jie Li, a fourth-year Phd Candidate at [Center for Statistical Science](http://www.stat.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn). I am fortunate to be advised by Prof. [Lijian Yang](http://www.stat.tsinghua.edu.cn/en/teambuilder/faculty/lijian-yang)_.**
+**_I am Jie Li, a fourth-year Phd Candidate at [Center for Statistical Science](http://www.stat.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn). My research is mainly about functional data analysis and time series. I am fortunate to be advised by Prof. [Lijian Yang](http://www.stat.tsinghua.edu.cn/en/teambuilder/faculty/lijian-yang)_.**
   
     
       
