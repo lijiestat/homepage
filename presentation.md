@@ -35,7 +35,7 @@ Hongkong_
 
 
 * Statistical inference for mean function of longitudinal imaging data over complicated domains, June 2021
- * **Invited Talk**, _Young Statisticians Forum, Online_
+  * **Invited Talk**, _Young Statisticians Forum, Online_
 
 
 
