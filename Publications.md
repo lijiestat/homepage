@@ -19,10 +19,15 @@ distribution function. _**Computational Statistics.**_ _Minor Revision_
 time series with application to air pollutants concentration data. _**Stat**_. _Minor Revision_
 
 
+\
+
 ### Under Review
 
 
 * Hu, Q. and **Li, J.** (2021+). Statistical inference for mean function of longitudinal imaging data over complicated domains. _(Corresponding Author)_ 
+
+
+\
 
 
 ### Working papers
