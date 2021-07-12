@@ -10,8 +10,8 @@ title: Presentation
 
 
 
-* Statistical inference for mean function of longitudinal imaging data over complicated domains, August 2021
-   * **Speed Session Speaker**, _Joint Statistical Meetings (Online), Seattle, WA, USA_
+
+* **Speed Session Speaker**, _Joint Statistical Meetings (Online), Seattle, WA, USA_，（08/2021）
 
 
 
