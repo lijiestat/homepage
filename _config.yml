@@ -43,14 +43,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "li-j17@mails.tsinghua.edu.cn"
-  facebook: deanattali
+  #facebook: deanattali
   github: daattali
-  twitter: daattali
+  #twitter: daattali
   #patreon: DeanAttali
-  youtube: c/daattali
+  youtube: "https://www.youtube.com/channel/UCvOjDQdWwfkLC63WDVaQYKw"
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+   linkedin: "https://www.linkedin.com/in/%E6%9D%B0-%E6%9D%8E-17229617b/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -63,7 +63,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+ ORCID: "https://orcid.org/0000-0002-6553-4770"
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
