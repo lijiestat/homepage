@@ -27,10 +27,10 @@ title: Presentation
 
 
 
-* **Poster**, _The 5th Peking-Tsinghua Joint Statistics Colloquium, Beijing, China_ (06/2021)[Poster](https://www.dropbox.com/s/scddufw0ay76j3o/posterjie_rev.pdf?dl=0)
+* **Poster**, _The 5th Peking-Tsinghua Joint Statistics Colloquium, Beijing, China_ (06/2021) [Poster](https://www.dropbox.com/s/scddufw0ay76j3o/posterjie_rev.pdf?dl=0)
 
 
-* **Invited Talk**, _National Young Statisticians Forum, Online_（06/2021）
+* **Invited Talk**, _National Young Statisticians Forum, Online_（06/2021）[Video](https://appkfzfb4lz6715.h5.xiaoeknow.com/v1/course/video/v_60b7ae1ae4b0c726421b906e?app_id=appKfzfb4lZ6715&available=1&available_product=1&entry=2&entry_type=2001&payment_type=&product_id=p_5edb9edaaea7c_oLekNUzf&resource_id=v_60b7ae1ae4b0c726421b906e&resource_type=3&scene=%E5%88%86%E4%BA%AB&share_type=5&share_user_id=u_5edd9034264ea_ljlPFtOZEx&type=2)
 
 
 
