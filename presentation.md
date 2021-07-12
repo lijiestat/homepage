@@ -39,7 +39,7 @@ title: Presentation
 Online_ (06/2021) [Slides](https://www.dropbox.com/s/7otkvu0t9lay3d4/SDSS2021.pdf?dl=0)
 
 
-* **Invited Talk**, _School of Statistics and Mathematics, Zhejiang Gongshang University_（04/2021）[Slides](https://www.dropbox.com/s/bs6ad5815ssgby6/2021ZGU.pdf?dl=0)
+* **Invited Talk**, _School of Statistics and Mathematics, Zhejiang Gongshang University_（04/2021）
 
 
 * **Invited Session Speaker**, _The 8th China Statistics Annual Conference,
