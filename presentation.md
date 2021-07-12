@@ -36,21 +36,21 @@ title: Presentation
 Online_ (06/2021) [Slides](https://www.dropbox.com/s/7otkvu0t9lay3d4/SDSS2021.pdf?dl=0)
 
 
-* **Invited Talk**, _School of Statistics and Mathematics, Zhejiang Gongshang University_（04/2021）
+* **Invited Talk**, _School of Statistics and Mathematics, Zhejiang Gongshang University_（04/2021）[Slides] (https://www.dropbox.com/s/bs6ad5815ssgby6/2021ZGU.pdf?dl=0)
 
 
 * **Invited Session Speaker**, _The 8th China Statistics Annual Conference,
-Chengdu, China_ (04/2021)
+Chengdu, China_ (04/2021) [Slides](https://www.dropbox.com/s/5y8b9xjrxh02b9n/chengdu2021.pdf?dl=0)
 
 
 
 
 * **Invited Session Speaker**, _The 2020 Symposium on Modern Statistics at Xiamen University,
-Xiamen, China_ (12/2020)
+Xiamen, China_ (12/2020) [Slides](https://www.dropbox.com/s/jg9qtzv76j1pixo/xiamen2020.pdf?dl=0)
 
 
 
-* **Invited Session Speaker**,  _The 4th National Statistics Doctoral Students Forum, Guangzhou, China_ (11/2020)
+* **Invited Session Speaker**,  _The 4th National Statistics Doctoral Students Forum, Guangzhou, China_ (11/2020) [Slides](https://www.dropbox.com/s/fdz6ca4oby7wr5f/fttscb_forum_guangzhou.pdf?dl=0)
 
 * **Contributed Session Speaker**, _Joint Statistical Meetings (Online), Philadelphia, PA, USA_ (08/2020)
 
