@@ -14,17 +14,20 @@ title: Presentation
 * **Speed Session Speaker**, _Joint Statistical Meetings (Online), Seattle, WA, USA_ (08/2021）
 
 
-* **Contributed Session Speaker**, _Bernoulli-IMS 10th World Congress in Probability and Statistics, Online_（07/2021）[Video](https://www.youtube.com/watch?v=ToS2zr8tRyk)
+* **Contributed Session Speaker**, _Bernoulli-IMS 10th World Congress in Probability and Statistics, Online_（07/2021）[Video](https://www.youtube.com/watch?v=ToS2zr8tRyk) [Slides](https://www.dropbox.com/s/jryusatvtj2qp4y/ABS-0163_Li.pdf?dl=0)
 
 
-* **ISI Jan Tinbergen Awards Session Speaker**, _The 63rd ISI World Statistics Congress, Online_（07/2021）
+* **ISI Jan Tinbergen Awards Session Speaker**, _The 63rd ISI World Statistics Congress, Online_（07/2021）[Slides](https://www.dropbox.com/s/zgrnyei2zb60b77/ISIwsc2021.pdf?dl=0)
 
 
 
 
 * **Invited Session Speaker**, _The 4th International Conference on Econometrics and Statistics (Online), HongKong_（06/2021）
+ 
 
-* **Poster**, _The 5th Peking-Tsinghua Joint Statistics Colloquium, Beijing, China_ (06/2021)
+
+
+* **Poster**, _The 5th Peking-Tsinghua Joint Statistics Colloquium, Beijing, China_ (06/2021)[Poster](https://www.dropbox.com/s/scddufw0ay76j3o/posterjie_rev.pdf?dl=0)
 
 
 * **Invited Talk**, _National Young Statisticians Forum, Online_（06/2021）
