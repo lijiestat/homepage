@@ -84,7 +84,7 @@ share-links-active:
 url: "http://lijiestat.github.io"
 baseurl: ""
 
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 60
