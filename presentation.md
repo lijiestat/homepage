@@ -59,25 +59,25 @@ Xiamen, China_ (12/2020) [Slides](https://www.dropbox.com/s/jg9qtzv76j1pixo/xiam
 
 
 * **Invited Session Speaker**, _The 2019 Symposium on Modern Statistics at Xiamen University,
-Xiamen, China_ (12/2019)
+Xiamen, China_ (12/2019) [Slides](https://www.dropbox.com/s/jeajtmv4twaoyh8/Jie%20xiamen2019.pdf?dl=0)
 
 * **Contributed Session Speaker**, _Joint Statistical Meetings, Denver, CO, USA_ (07/2019) [Slides](https://www.dropbox.com/s/zeskvljey4lfttj/ftsscb_JSM.pdf?dl=0)
 
 
-* **Invited Session Speaker**, _IMS China Conference, Dalian, China_ (07/2019)
+* **Invited Session Speaker**, _IMS China Conference, Dalian, China_ (07/2019) [Slides](https://www.dropbox.com/s/ir4v5rvgsoku0af/IMS%20China%20Jie.pdf?dl=0)
 
 
-* **Invited Session Speaker**, _ICSA  2019 China Conference, Tianjin, China_ (07/2019)
+* **Invited Session Speaker**, _ICSA  2019 China Conference, Tianjin, China_ (07/2019) [Slides](https://www.dropbox.com/s/4f7n7x7vbbz99ox/ICSA%20Jie.pdf?dl=0)
 
 
 * **Invited Session Speaker**, _The 3rd International Conference on Econometrics and Statistics, 
-Taichung, Taiwan_ (06/2019)
+Taichung, Taiwan_ (06/2019) [Slides](https://www.dropbox.com/s/pufrfzajjo71mlf/Ecosta%20Lijie.pdf?dl=0)
 
 
 * **Poster**, _The 4th Peking-Tsinghua Joint Statistics Colloquium, Beijing, China_ (06/2019) [Poster](https://www.dropbox.com/s/y610r3xopulfmqq/posterlijie.pdf?dl=0)
 
 
-* **Invited Session Speaker**, _The 12th China-R Conference, Beijing, China_ (05/2019)
+* **Invited Session Speaker**, _The 12th China-R Conference, Beijing, China_ (05/2019)[Slides](https://www.dropbox.com/s/y6bmypvky52fbqh/%E6%9D%8E%E6%9D%B0%20R%E8%AF%AD%E8%A8%80version2.pdf?dl=0)
 
 
 
