@@ -14,6 +14,6 @@ What else do you need?
 * _PhD (2017-now), Department of Statistics, Tsinghua University_
  * Advisor: Lijian Yang
 
-*_Bachelor (2013-2017), Department of Statistics, Beijing Normal University_
+* _Bachelor (2013-2017), Department of Statistics, Beijing Normal University_
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer  your questions.
