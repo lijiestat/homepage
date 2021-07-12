@@ -16,7 +16,7 @@ author: Jie Li
 navbar-links:
   About Me: "aboutme"
   Publications: "Publications"
-  Honors and Awards: "Honors"
+  Honors: "Honors"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
