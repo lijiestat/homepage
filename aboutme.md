@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
 My name is Jie Li. I am a fourth-year Phd Candidate in Tsinghua University and am fortunate to be advised by Professor Lijian Yang.
