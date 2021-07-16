@@ -10,10 +10,12 @@ title: Publications
 
 ### Publications
 
+* **Li, J.**, and Yang, L. (2021+). Statistical inference for functional time series. _**Statistica Sinica.**_ _Forthcoming_
+
+
 * **Li, J.**, Wang, J.  and Yang, L. (2021+) Kolmogorov-Smirnov simultaneous confidence bands for time series 
 distribution function. _**Computational Statistics.**_ _Minor Revision_
 
-* **Li, J.**, and Yang, L. (2021+). Statistical inference for functional time series. _**Statistica Sinica.**_ _Minor Revision_
 
 * **Li, J.**, Hu, Q. and Zhang, F. (2021+)   Multi-step-ahead prediction interval for locally stationary 
 time series with application to air pollutants concentration data. _**Stat**_. _Minor Revision_
