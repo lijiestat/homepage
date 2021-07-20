@@ -16,6 +16,9 @@ order: 1
 ### Contact
 Email: li-j17[at] mails.tsinghua.edu.cn
 
+### News
+
+July 2021, The paper _Statistical inference for functional time series_ is accepted by **_Statistica Sinica_**.
 
 
 
