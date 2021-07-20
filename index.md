@@ -20,9 +20,9 @@ Email: li-j17[at] mails.tsinghua.edu.cn
 
 * **July 2021**: The paper _Statistical inference for functional time series_ is accepted by **_Statistica Sinica_**.
 
-* **April 2021**: Won **_ISI Jan Tinbergen Award_**.
+* **April 2021**: Won [**_2021 ISI Jan Tinbergen Award_**](https://www.isi-web.org/events/isi-awards/tinbergen-award).
 
-* **May 2020**: Won **_IMS  Hannan Graduate Student Travel Award_**.
+* **May 2020**: Won [**_2020 IMS  Hannan Graduate Student Travel Award_**](http://www.stat.tsinghua.edu.cn/en/2020/09/15/phd-student-of-our-center-won-the-hannan-graduate-student-travel-award-of-the-institute-of-mathematical-statistics-this-year/).
 
 
 
