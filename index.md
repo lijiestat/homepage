@@ -18,7 +18,11 @@ Email: li-j17[at] mails.tsinghua.edu.cn
 
 ### News
 
-July 2021, The paper _Statistical inference for functional time series_ is accepted by **_Statistica Sinica_**.
+* **July 2021**: The paper _Statistical inference for functional time series_ is accepted by **_Statistica Sinica_**.
+
+* **April 2021**: Won **_ISI Jan Tinbergen Award_**.
+
+* **May 2020**: Won **_IMS  Hannan Graduate Student Travel Award_**.
 
 
 
