@@ -18,6 +18,11 @@ Email: li-j17[at] mails.tsinghua.edu.cn
 
 ### News
 
+* **July 2021**: The paper _Multi-step-ahead prediction interval for locally stationary 
+time series with application to air pollutants concentration data_ is accepted by **_Stat_**.
+
+ 
+
 * **July 2021**: The paper _Statistical inference for functional time series_ is accepted by **_Statistica Sinica_**.
 
 * **April 2021**: Won [**_2021 ISI Jan Tinbergen Award_**](https://www.isi-web.org/events/isi-awards/tinbergen-award).
