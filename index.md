@@ -23,7 +23,7 @@ time series with application to air pollutants concentration data_ is accepted b
 
  
 
-* **July 2021**: The paper _Statistical inference for functional time series_ is accepted by **_Statistica Sinica_**.
+* **July 2021**: The paper [_Statistical inference for functional time series_](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0107_na.pdf) is accepted by **_Statistica Sinica_**.
 
 * **April 2021**: Won [**_2021 ISI Jan Tinbergen Award_**](https://www.isi-web.org/events/isi-awards/tinbergen-award).
 
