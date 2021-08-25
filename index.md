@@ -18,8 +18,8 @@ Email: li-j17[at] mails.tsinghua.edu.cn
 
 ### News
 
-* **July 2021**: The paper _Multi-step-ahead prediction interval for locally stationary 
-time series with application to air pollutants concentration data_ is accepted by **_Stat_**.
+* **July 2021**: The paper [_Multi-step-ahead prediction interval for locally stationary 
+time series with application to air pollutants concentration data_](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.411) is accepted by **_Stat_**.
 
  
 
