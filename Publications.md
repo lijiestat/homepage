@@ -10,10 +10,10 @@ title: Publications
 
 ### Publications
 
-* **Li, J.**, and Yang, L. (2021+). [Statistical inference for functional time series.](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0107_na.pdf). _**Statistica Sinica.**_ _in press DOI: 10.5705/ss.202021.0107_
+* **Li, J.**, and Yang, L. (2021+). [Statistical inference for functional time series.](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0107_na.pdf) _**Statistica Sinica.**_ _in press DOI: 10.5705/ss.202021.0107_
 
 * **Li, J.**, Hu, Q. and Zhang, F. (2021+)   [Multi-step-ahead prediction interval for locally stationary 
-time series with application to air pollutants concentration data.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.411) _**Stat.**_ _Forthcoming_
+time series with application to air pollutants concentration data.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.411) _**Stat.**_ _in press DOI: 10.1002/sta4.411_ 
 
 * **Li, J.**, Wang, J.  and Yang, L. (2021+) Kolmogorov-Smirnov simultaneous confidence bands for time series 
 distribution function. _**Computational Statistics.**_ _Accepted_
