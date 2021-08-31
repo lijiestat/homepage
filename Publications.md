@@ -23,7 +23,7 @@ distribution function. _**Computational Statistics.**_ _Accepted_
 
 
 
-### Under Review
+### Submitted papers
 
 
 * Hu, Q. and **Li, J.** (2021+). Statistical inference for mean function of longitudinal imaging data over complicated domains. _(Corresponding Author)_ 
