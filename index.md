@@ -18,6 +18,9 @@ Email: li-j17[at] mails.tsinghua.edu.cn
 
 ### News
 
+* **August 2021**: The paper _Kolmogorov-Smirnov simultaneous confidence bands for time series distribution function_ is accepted by **_Computational Statistics_**.
+
+
 * **July 2021**: The paper [_Multi-step-ahead prediction interval for locally stationary 
 time series with application to air pollutants concentration data_](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.411) is accepted by **_Stat_**.
 
