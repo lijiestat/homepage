@@ -16,7 +16,7 @@ title: Publications
 time series with application to air pollutants concentration data.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.411) _**Stat.**_ _in press DOI: 10.1002/sta4.411_ 
 
 * **Li, J.**, Wang, J.  and Yang, L. (2021+) Kolmogorov-Smirnov simultaneous confidence bands for time series 
-distribution function. _**Computational Statistics.**_ _Accepted_
+distribution function. _**Computational Statistics.**_ _Forthcoming_
 
 
 
