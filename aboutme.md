@@ -23,7 +23,7 @@ title: About me
 
 
 
-* **Methodology:** inference for time series and functional data; econometrics; causal inference and marchine learinng.  
+* **Methodology:** inference for time series and functional data; econometrics; causal inference and machine learning.  
 
 * **Applications:** statistics in finance, environment, biomedical science and meteorology.
 
