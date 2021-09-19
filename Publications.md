@@ -15,8 +15,8 @@ title: Publications
 * **Li, J.**, Hu, Q. and Zhang, F. (2021+)   [Multi-step-ahead prediction interval for locally stationary 
 time series with application to air pollutants concentration data.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.411) _**Stat.**_ _in press DOI: 10.1002/sta4.411_ 
 
-* **Li, J.**, Wang, J.  and Yang, L. (2021+) Kolmogorov-Smirnov simultaneous confidence bands for time series 
-distribution function. _**Computational Statistics.**_ _Forthcoming_
+* **Li, J.**, Wang, J.  and Yang, L. (2021+) [Kolmogorov-Smirnov simultaneous confidence bands for time series 
+distribution function.](https://link.springer.com/article/10.1007/s00180-021-01149-5) _**Computational Statistics.**_ _in press DOI: 10.1007/s00180-021-01149-5_
 
 
 
