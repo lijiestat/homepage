@@ -32,4 +32,4 @@ title: About me
     
 ### CV
 
-Here is my [CV](https://www.dropbox.com/s/e2bs55fl48985uk/CV%20Jie_new.pdf?dl=0).
+Here is my [CV](https://www.dropbox.com/s/w512t2pz13pg975/CV.pdf?dl=0).
