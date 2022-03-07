@@ -31,7 +31,8 @@ distribution function.](https://link.springer.com/article/10.1007/s00180-021-011
 ### Submitted papers
 
 
-* Hu, Q. and **Li, J.** (2021+). Statistical inference for mean function of longitudinal imaging data over complicated domains. _(Corresponding Author)_ 
+* Hu, Q. and **Li, J.** (2022+). Statistical inference for mean function of longitudinal imaging data over complicated domains. _(Corresponding Author)_ 
+_**Statistica Sinica.**_ _Major Revision_
 
 
 
@@ -39,11 +40,11 @@ distribution function.](https://link.springer.com/article/10.1007/s00180-021-011
 
 ### Working papers
 
-* Feng, Y., **Li, J.**,  and Song, X. (2021+). Testing linearity in semi-functional partial linear models. _(Co-first Author)_
+* Feng, Y., **Li, J.**,  and Song, X. (2022+). Testing linearity in semi-functional partial linear models. _(Co-first Author)_
 
-* **Li, J.**, Ma, S. and Li, Y. (2021+). Estimation and inference of time-varying average treatment effect based on functional data. 
+* **Li, J.**, Ma, S. and Li, Y. (2022+). Estimation and inference of time-varying average treatment effect based on functional data. 
  
  
-* **Li, J.**, Feng, Y. and Song, X. (2021+). Testing quantile conditional mean independence with functional covariate. 
+* **Li, J.**, Feng, Y. and Song, X. (2022+). Testing quantile conditional mean independence with functional covariate. 
 
-* Hu, Q. and **Li, J.** (2021+). Simultaneous inference for  covariance function of next-generation functional data. _(Corresponding Author)_ 
+* Hu, Q. and **Li, J.** (2022+). Simultaneous inference for  covariance function of next-generation functional data. _(Corresponding Author)_ 
