@@ -40,7 +40,7 @@ _**Statistica Sinica.**_ _Major Revision_
 
 ### Working papers
 
-* Feng, Y., **Li, J.**,  and Song, X. (2022+). Testing linearity in semi-functional partial linear models. _(Co-first Author)_
+* Feng, Y., **Li, J.**  and Song, X. (2022+). Testing linearity in semi-functional partial linear models. _(Co-first Author)_
 
 * **Li, J.**, Ma, S. and Li, Y. (2022+). Estimation and inference of time-varying average treatment effect based on functional data. 
  
