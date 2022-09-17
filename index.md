@@ -10,7 +10,7 @@ order: 1
 <img align="right" src="assets/img/Photo_JieLi_new.JPG" alt="" width="300">
  
 
-**_I am Jie Li, a fifth-year Phd Candidate majoring in statistics at [Center for Statistical Science](http://www.stat.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn). My research is mainly about functional data analysis and time series. I am fortunate to be advised by [Prof. Lijian Yang](http://www.stat.tsinghua.edu.cn/en/teambuilder/faculty/lijian-yang)_.**
+**_I am Jie Li, a  Lecturer/Postdoc  at [School of Statistics](http://stat.ruc.edu.cn/index.html), [Renmin  University of China](https://www.ruc.edu.cn). My research is mainly about functional data analysis and time series. I am fortunate to be advised by [Prof. Lijian Yang](http://www.stat.tsinghua.edu.cn/en/teambuilder/faculty/lijian-yang)_.**
 
 
 ### Contact
