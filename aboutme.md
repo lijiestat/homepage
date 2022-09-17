@@ -5,7 +5,7 @@ title: About me
 
 
 ### Work experience
-* _Lecturer/Postdoc(2022-now), School of Statistics, Renmin University of China
+* _Lecturer/Postdoc(2022-now), School of Statistics, Renmin University of China_
 
 
 
