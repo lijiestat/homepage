@@ -35,7 +35,7 @@ _**Statistica Sinica.**_ _in press DOI: 10.5705/ss.202021.0415_
 ### Submitted papers
 
 
-* Feng, Y., **Li, J.** #  and Song, X. (2022+). Testing linearity in semi-functional partial linear models. _(Co-first Author)_
+* Feng, Y., **Li, J.** ^#  and Song, X. (2022+). Testing linearity in semi-functional partial linear models. _(Co-first Author)_
 
 
 
