@@ -10,9 +10,9 @@ title: About me
 
 ### Education
 
-* _PhD (2017-now), Center for Statistical Science, Tsinghua University_
+* _PhD (2017-2022), Center for Statistical Science, Tsinghua University_
   *  Advisor: [Prof. Lijian Yang](http://lijianyang.com)
-
+    *  Dissertation: Statistical Inference and Forecasting Methods for Complex Time Series
 * _Bachelor (2013-2017), School of Mathematical Sciences, Beijing Normal University_
   
     
