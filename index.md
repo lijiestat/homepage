@@ -18,7 +18,7 @@ Email: lijie_stat[at] ruc.edu.cn
 
 ### News
 
-* **September 2022**: The paper [_Statistical inference for mean function of longitudinal imaging data over complicated domains_](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0415_na.pdf)) is accepted by **_Statistica Sinica_**.
+* **September 2022**: The paper [_Statistical inference for mean function of longitudinal imaging data over complicated domains_](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0415_na.pdf) is accepted by **_Statistica Sinica_**.
 
 
 
