@@ -27,7 +27,7 @@ distribution function.](https://link.springer.com/article/10.1007/s00180-021-011
 * **Li, J.**, and Yang, L. (2023). [Statistical inference for functional time series.](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0107_na.pdf) _**Statistica Sinica.**_ 33(1), 1-31.
 
 
-* Hu, Q. and **Li, J.^* ** (2023+). [Statistical inference for mean function of longitudinal imaging data over complicated domains.](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0415_na.pdf) _(Corresponding Author)_ 
+* Hu, Q. and **Li, J.** (2023+). [Statistical inference for mean function of longitudinal imaging data over complicated domains.](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0415_na.pdf) _(Corresponding Author)_ 
 _**Statistica Sinica.**_ _in press DOI: 10.5705/ss.202021.0415_
 
 
