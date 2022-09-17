@@ -14,9 +14,13 @@ order: 1
 
 
 ### Contact
-Email: li-j17[at] mails.tsinghua.edu.cn
+Email: lijie_stat[at] ruc.edu.cn
 
 ### News
+
+* **September 2022**: The paper [_Statistical inference for mean function of longitudinal imaging data over complicated domains_](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0415_na.pdf)) is accepted by **_Statistica Sinica_**.
+
+
 
 * **August 2021**: The paper [_Kolmogorov-Smirnov simultaneous confidence bands for time series distribution function_](https://link.springer.com/article/10.1007/s00180-021-01149-5) is accepted by **_Computational Statistics_**.
 
