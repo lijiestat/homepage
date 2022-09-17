@@ -11,7 +11,7 @@ title: Publications
 ### Publications
 
 
-(* indicates corresponding author, #indicates co-first author)
+(* indicates corresponding author,  # indicates co-first author)
 
 * **Li, J.**, Hu, Q. and Zhang, F. (2022)   [Multi-step-ahead prediction interval for locally stationary 
 time series with application to air pollutants concentration data.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.411) _**Stat,**_ 11(1), e411.
@@ -38,7 +38,7 @@ _**Statistica Sinica.**_ _in press DOI: 10.5705/ss.202021.0415_
 ### Submitted papers
 
 
-* Feng, Y., **Li, J.** #  and Song, X. (2022+). Testing linearity in semi-functional partial linear models. _(Co-first Author)_
+* Feng, Y., **Li, J.** #  and Song, X. (2022+). Testing linearity in semi-functional partial linear models. 
 
 
 
@@ -52,7 +52,9 @@ _**Statistica Sinica.**_ _in press DOI: 10.5705/ss.202021.0415_
  
 * **Li, J.**, Feng, Y. and Song, X. (2022+). Testing quantile conditional mean independence with functional covariate. 
 
-* Hu, Q. and **Li, J.** * (2022+). Simultaneous inference for  covariance function of next-generation functional data. _(Corresponding Author)_ 
+* Feng, Y., **Li, J.** #  and Song, X. (2022+).  Significance testing of the functional covariate.
+
+* Hu, Q. and **Li, J.** * (2022+). Simultaneous inference for  covariance function of next-generation functional data. 
 
 
 
