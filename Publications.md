@@ -27,7 +27,7 @@ time series with application to air pollutants concentration data.](https://onli
 distribution function.](https://link.springer.com/article/10.1007/s00180-021-01149-5) _**Computational Statistics,**_ 37(3), 1015-1039.
 
 
-* **Li, J.**, and Yang, L. (2023). [Statistical inference for functional time series.](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0107_na.pdf) _**Statistica Sinica,**_ 33(1), 1-31.
+* **Li, J.** and Yang, L. (2023). [Statistical inference for functional time series.](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0107_na.pdf) _**Statistica Sinica,**_ 33(1), 1-31.
 
 
 * Hu, Q. and **Li, J.** *  (2023+). [Statistical inference for mean function of longitudinal imaging data over complicated domains.](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0415_na.pdf) 
