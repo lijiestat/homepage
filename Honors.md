@@ -10,7 +10,7 @@ title: Honors
 * [_Tsinghua University Excellent Dissertation Award,  2022_](http://www.stat.tsinghua.edu.cn/2022/07/06/【奖励荣誉】统计中心博士毕业生荣获清华大学/)
 
 
-* [_**ISI Jan Tinbergen Award, 2021**_](https://www.isi-web.org/news-newsletter/20555-2021-isi-jan-tinbergen-awards) 
+* [_**ISI Jan Tinbergen Award, 2021**_](https://www.tsinghua.edu.cn/info/1181/86928.htm)
 
 * [_Chinese Association for Applied Statistics National Statistics Doctoral Students Forum Second Class Award, 2020_](http://www.stat.tsinghua.edu.cn/2020/11/13/【新闻动态】我中心多名同学在全国统计学博士研/)
 
