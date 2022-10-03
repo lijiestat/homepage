@@ -11,7 +11,7 @@ title: Publications
 ### Publications
 
 
-(* indicates corresponding author,  # indicates co-first author)
+(* indicates corresponding author)
 
 * **Li, J.**, Hu, Q. and Zhang, F. (2022)   [Multi-step-ahead prediction interval for locally stationary 
 time series with application to air pollutants concentration data.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.411) _**Stat,**_ 11(1), e411.
