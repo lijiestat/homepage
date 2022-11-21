@@ -15,6 +15,7 @@ order: 1
 
 ### Contact
 Email: lijie_stat[at] ruc.edu.cn
+
 Office: Room 1055B, Mingde Building
 
 
