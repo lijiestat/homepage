@@ -38,13 +38,13 @@ _**Statistica Sinica,**_ In press _DOI: 10.5705/ss.202021.0415_
 ### Submitted papers
 
 
-* Feng, Y., **Li, J.** *  and Song, X. * (2023+). Testing linearity in semi-functional partial linear models.
+* Feng, Y., **Li, J.** *  and Song, X.  (2023+). Testing linearity in semi-functional partial linear models.
 
   
-*  Feng, Y., **Li, J.** *  and Song, X. * (2023+). Testing quantile conditional mean independence with functional covariate.
+*  Feng, Y., **Li, J.** *  and Song, X.  (2023+). Testing quantile conditional mean independence with functional covariate.
 
   
-* Feng, Y., **Li, J.** *  and Song, X. * (2023+).  Significance testing of the functional covariate.
+* Feng, Y., **Li, J.** *  and Song, X.  (2023+).  Significance testing of the functional covariate.
 
   
 * Hu, Q. and **Li, J.** * (2023+). Simultaneous inference for  covariance function of next-generation functional data. 
