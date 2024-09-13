@@ -22,7 +22,7 @@ Office: Room 1055B, Mingde Building
 
 ### News
 
-* **September 2022**: The paper [_Testing conditional quantile independence with functional covariate.](https://academic.oup.com/biometrics/article-abstract/80/2/ujae036/7671407?redirectedFrom=fulltext&login=false) is accepted by **_Biometrics_**.
+* **April 2024**: The paper [Testing conditional quantile independence with functional covariate.](https://academic.oup.com/biometrics/article-abstract/80/2/ujae036/7671407?redirectedFrom=fulltext&login=false) is accepted by **_Biometrics_**.
 
 
 * **September 2022**: The paper [_Statistical inference for mean function of longitudinal imaging data over complicated domains_](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0415_na.pdf) is accepted by **_Statistica Sinica_**.
