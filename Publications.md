@@ -13,7 +13,7 @@ title: Publications
 
 (* indicates corresponding author)
 
-* Feng, Y., **Li, J.** *  and Song, X. (2024). [Testing conditional quantile independence with functional covariate.](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0415_na.pdf](https://academic.oup.com/biometrics/article-abstract/80/2/ujae036/7671407?redirectedFrom=fulltext&login=false) 
+* Feng, Y., **Li, J.** *  and Song, X. (2024). [Testing conditional quantile independence with functional covariate.](https://academic.oup.com/biometrics/article-abstract/80/2/ujae036/7671407?redirectedFrom=fulltext&login=false) 
 _**Biometrics,**_ 80(2), ujae036.   
 
 * Hu, Q. and **Li, J.** *  (2024). [Statistical inference for mean function of longitudinal imaging data over complicated domains.](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0415_na.pdf) 
