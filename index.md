@@ -10,7 +10,7 @@ order: 1
 <img align="right" src="assets/img/Photo_JieLi_new.JPG" alt="" width="300">
  
 
-**_I am Jie Li, a  Lecturer/Postdoc  at [School of Statistics](http://stat.ruc.edu.cn/index.html), [Renmin  University of China](https://www.ruc.edu.cn). My research is mainly about functional data analysis and time series. I am fortunate to be advised by [Prof. Lijian Yang](http://www.stat.tsinghua.edu.cn/en/teambuilder/faculty/lijian-yang)_.**
+**_I am Jie Li, an  Assistant Professor  at [School of Statistics](http://stat.ruc.edu.cn/index.html), [Renmin  University of China](https://www.ruc.edu.cn). My research is mainly about functional data analysis and time series. I am fortunate to be advised by [Prof. Lijian Yang](http://www.stat.tsinghua.edu.cn/en/teambuilder/faculty/lijian-yang)_.**
 
 
 ### Contact
@@ -21,6 +21,9 @@ Office: Room 1055B, Mingde Building
 
 
 ### News
+
+* **September 2022**: The paper [_Testing conditional quantile independence with functional covariate.](https://academic.oup.com/biometrics/article-abstract/80/2/ujae036/7671407?redirectedFrom=fulltext&login=false) is accepted by **_Biometrics_**.
+
 
 * **September 2022**: The paper [_Statistical inference for mean function of longitudinal imaging data over complicated domains_](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0415_na.pdf) is accepted by **_Statistica Sinica_**.
 
