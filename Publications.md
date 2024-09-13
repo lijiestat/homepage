@@ -38,8 +38,6 @@ time series with application to air pollutants concentration data.](https://onli
 
 * Feng, Y., **Li, J.** *  and Song, X.  (2023+). Testing linearity in semi-functional partial linear models.
 
-  
-*  Feng, Y., **Li, J.** *  and Song, X.  (2023+). Testing quantile conditional mean independence with functional covariate.
 
   
 * Feng, Y., **Li, J.** *  and Song, X.  (2023+).  Significance testing of the functional covariate.
